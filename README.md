@@ -3,6 +3,8 @@
 Small Nintendo Switch homebrew example that renders a rotating triangle with
 Vulkan through the NVK Switch path.
 
+![Triangle Test Output](output.jpg)
+
 ## Files
 
 - `TriangleTest.cpp` - Vulkan setup, draw loop, and cleanup.
